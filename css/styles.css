@@ -1,0 +1,31 @@
+
+body{ background-color: #79B4B7; }
+
+hr{
+
+border-style: none ;
+border-top-style: dotted;
+border-width: 5px;
+border-color: gray;
+  width: 4% ;
+
+}
+img:hover{background-color: black;}
+
+h1{color: #8A370A;}
+
+h2{color: red; }
+
+h3{color: #1E3163;}
+
+.boy{background-color: green;}
+
+.girl{background-color: red;}
+
+.circular{border-radius: 100% }
+
+/* this is an id selector for headings change anything
+it is denoted by #
+*/
+
+#heading {color: white; }
